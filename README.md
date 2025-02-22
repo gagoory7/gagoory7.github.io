@@ -1,2 +1,2 @@
-# gagoory7.github.io
+# TIL
 Today I Learned
